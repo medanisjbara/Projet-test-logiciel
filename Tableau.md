@@ -1,4 +1,3 @@
-|--------------------|---------------------------------------|------------------------------------------------|
 | Nom du cas de test | Étapes de test                        | Résultat attendu                               |
 |--------------------|---------------------------------------|------------------------------------------------|
 | TestTVA1           |                                       |                                               |
@@ -13,7 +12,6 @@
 |                    | 4.Répéter les étapes 1 à 3 pour       |  les spécifications fonctionnelles ou les     |
 |                    | plusieurs combinaisons de prix        |  exigences du logiciel.                       |
 |                    |  et de taux de TVA.                   |                                                |
-|--------------------|---------------------------------------|------------------------------------------------|
 | TestTVA2           | 1.Initialiser un objet CalculTVA      |* La méthode Assert doit vérifier                |
 |                    |   en utilisant la méthode             |  que la valeur de retour de la méthode |
 |                    |   initCalcTVA().                      |  calculTotalPrice() correspond à la somme du |
@@ -25,4 +23,3 @@
 |                    |   la méthode Act.                     | |
 |                    | 4.Vérifier que la valeur de retour    | |
 |                    |   de la méthode calculTotalPrice()    | |
-|--------------------|---------------------------------------|------------------------------------------------|
